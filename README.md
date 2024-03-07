@@ -1,4 +1,4 @@
-# Create empty exe
+# Create empty exe for Windows
 
 ## Requirements
 
