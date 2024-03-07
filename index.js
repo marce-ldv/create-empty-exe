@@ -19,4 +19,4 @@ const main = (inputFile) => {
   createExeFiles(inputFile);
 }
 
-main('epic.txt');
+main('games.txt');
